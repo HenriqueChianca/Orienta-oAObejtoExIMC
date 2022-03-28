@@ -1,0 +1,6 @@
+C:\Users\1924070031\Documents\HenriqueExProgramação\Lab1V2\Lab1Versao2\Lab1Versao2\bin\Debug\Lab1Versao2.exe.config
+C:\Users\1924070031\Documents\HenriqueExProgramação\Lab1V2\Lab1Versao2\Lab1Versao2\bin\Debug\Lab1Versao2.exe
+C:\Users\1924070031\Documents\HenriqueExProgramação\Lab1V2\Lab1Versao2\Lab1Versao2\bin\Debug\Lab1Versao2.pdb
+C:\Users\1924070031\Documents\HenriqueExProgramação\Lab1V2\Lab1Versao2\Lab1Versao2\obj\Debug\Lab1Versao2.csprojResolveAssemblyReference.cache
+C:\Users\1924070031\Documents\HenriqueExProgramação\Lab1V2\Lab1Versao2\Lab1Versao2\obj\Debug\Lab1Versao2.exe
+C:\Users\1924070031\Documents\HenriqueExProgramação\Lab1V2\Lab1Versao2\Lab1Versao2\obj\Debug\Lab1Versao2.pdb

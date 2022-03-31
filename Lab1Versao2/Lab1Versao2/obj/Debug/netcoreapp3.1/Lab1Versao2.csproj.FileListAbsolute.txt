@@ -1,0 +1,13 @@
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\bin\Debug\netcoreapp3.1\Lab1Versao2.exe
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\bin\Debug\netcoreapp3.1\Lab1Versao2.deps.json
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\bin\Debug\netcoreapp3.1\Lab1Versao2.runtimeconfig.json
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\bin\Debug\netcoreapp3.1\Lab1Versao2.runtimeconfig.dev.json
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\bin\Debug\netcoreapp3.1\Lab1Versao2.dll
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\bin\Debug\netcoreapp3.1\Lab1Versao2.pdb
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\obj\Debug\netcoreapp3.1\Lab1Versao2.csprojAssemblyReference.cache
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\obj\Debug\netcoreapp3.1\Lab1Versao2.csproj.CoreCompileInputs.cache
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\obj\Debug\netcoreapp3.1\Lab1Versao2.AssemblyInfoInputs.cache
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\obj\Debug\netcoreapp3.1\Lab1Versao2.AssemblyInfo.cs
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\obj\Debug\netcoreapp3.1\Lab1Versao2.dll
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\obj\Debug\netcoreapp3.1\Lab1Versao2.pdb
+E:\IESB3S2\OrientaçãoAObjetos\Lab1Versao2\Lab1Versao2\Lab1Versao2\obj\Debug\netcoreapp3.1\Lab1Versao2.genruntimeconfig.cache
